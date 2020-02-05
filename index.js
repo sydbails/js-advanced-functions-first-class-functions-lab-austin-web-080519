@@ -8,3 +8,7 @@ const returnLastTwoDrivers = function(arr) {
 }
 
 const selectingDrivers = [returnFirstTwoDrivers, returnLastTwoDrivers]
+
+const createFareMultiplier = function(int) {
+  
+}
