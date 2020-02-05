@@ -1,4 +1,4 @@
 // Code your solution in this file!
 const returnFirstTwoDrivers = function(arr) {
-  arr.slice(0,1)
+  arr.slice(0,2)
 }
